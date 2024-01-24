@@ -1,0 +1,43 @@
+body{
+    background-color: bisque;
+  }
+  
+  .ft{
+    color: deeppink;
+    font-weight: 900;
+    font-size: 20px;
+  }
+  .basic-number{
+  line-height: 30px;
+  }
+  .parent-heading1 {
+   font-size: 30px;
+  text-align: center;
+  text-transform: capitalize;
+  text-decoration: underline;
+  font-family: "Playfair Display", serif;
+  color: blueviolet;
+  }
+  .parent-paragraph1 {
+  margin-top: 5px;
+  text-align: center;
+  font-family: "Nunito Sans", sans-serif;
+  }
+  .parent-paragraph2 {
+  text-align: center;
+  font-family: "Nunito Sans", sans-serif;
+  }
+  .parent-span {
+  text-align: center;
+  font-family: "Nunito Sans", sans-serif;
+  color: crimson;
+  }
+  .basic-heading {
+  font-family: "Slabo 27px", serif;
+  color: rgb(1, 1, 115);
+  }
+  .basic-paragraph {
+    font-size: large;
+  font-family: "Nunito Sans", sans-serif;
+  }
+  
